@@ -1,0 +1,61 @@
+The situation at Fukushima seems to be getting worse.
+
+US politicians were warned last night that radiation levels at Japan’s crippled nuclear facility had reached ‘extremely high’ levels and that one of the pools containing spent fuel rods probably had no water left in it.
+
+Gregory Jaczko, chief of the Nuclear Regulatory Commission (NRC), told a Congressional committee that the NRC believed:
+
+“There has been a hydrogen explosion in (unit 4) due to an uncovering of the fuel in the spent fuel pool.
+
+“We believe that secondary containment has been destroyed and there is no water in the spent fuel pool. And we believe that radiation levels are extremely high, which could possibly impact the ability to take corrective measures.”
+
+
+
+If the pool dries up (and the NRC believes pool 3 is also leaking) there will be nothing to cool the spent fuel rods, which could then melt down, destroy their cladding and catch fire, emitting large amounts of radioactive material into the atmosphere.
+
+Jaczko later told journalists: “It is my great hope that the information is not accurate.”
+
+But unfortunately — to judge by Cabinet Secretary Yuki Edano’s pathetic response this morning — the NRC is right on the money. Asked to comment at his televised press conference (at 1.30pm AEST) Secretary Edano waffled on about providing information to the Americans but absolutely failed to dispute the US agency’s assessment.
+
+Moments later, an official from Japan’s nuclear safety agency admitted it was now their number one priority to cool the rods in pools 3 and 4 — even ahead of restoring power to the plant. The same official warned that water levels were falling and temperatures rising in pools number 5 and 6.
+
+As the International Atomic Energy Agency explained in its statement at 9am AEST this morning:
+
+“If fuel is no longer covered by water or temperatures reach a boiling point, fuel can become exposed and create a risk of radioactive release.”
+
+Or, as the Massachussetts Institute of Technology’s nuclear energy site explains in greater detail:
+
+“If the rods get hot enough, the zirconium-based cladding will oxidize with the steam and air, releasing hydrogen, which can then ignite. These events would likely cause the clad to fail, releasing radioactive fission products like iodine, caesium, and strontium. It is important to note that each of these occurrences (cooling system failure, pool water boiling, fuel rod overheating in air, zirconium oxidation reaction) would each have to last sufficiently long in order to cause an accident, making the total likelihood of a serious situation very low.
+
+“The most significant danger if such an event were to occur is that there is no robust containment structure (like the one housing the reactor,) surrounding the SNF (spent nuclear fuel) pool.  While SNF pools themselves are very robust structures, the roof above each pool is not as strong and may have been damaged, meaning the surface of the pool may be open to the environment.”
+
+This morning, four Chinook helicopters from the Japanese Defence Force bombed the number 3 reactor and pool (which is at the top of the building) with 30 tonnes of seawater, in the hope of preventing that worst-case scenario. No one yet knows whether it will work.
+
+But the fact they are attempting this suggests the roof of reactor 3 is already holed (or water would not be able to get in) so there is nothing much left to contain the radioactivity if the worst happens and the rods do melt down.
+
+This inevitably raises the question of whether the accident might yet become as bad as Chernobyl.
+
+So far, we have all been reassured by knowledge that the Fukushima reactors have two solid containment structures (one steel, one concrete) while Chernobyl had none. But pool 3 appears (and possibly pool 4) to have lost most of its protection, so that difference has been partially eliminated.
+
+Despite that, a repeat of Chernobyl still looks unlikely. The Russian reactor exploded while it was running at full tilt and blasted bits of fuel and debris high into the atmosphere. The explosion was then amplified by a raging fire in the graphite core which lasted for months. Nothing at Fukushima is likely to match the force of that.
+
+And as the UK’s Chief Scientific Officer, Professor John Beddington, points out:
+
+“Even in the case of Chernobyl, the exclusion zone that they had was about 30 kilometres. And in that exclusion zone, outside that, there is no evidence whatsoever to indicate people had problems from the radiation. The problems with Chernobyl were people were continuing to drink the water, continuing to eat vegetables and so on and that was where the problems came from. That’s not going to be the case here. So what I would really re-emphasise is that this is very problematic for the area and the immediate vicinity and one has to have concerns for the people working there. Beyond that 20 or 30 kilometres, it’s really not an issue for health.”
+
+But the ANU’s Professor Aidan Byrne told Crikey one could not rule out the possibility that the worst-case scenario might be comparable to Chernobyl.
+
+“It depends,” he said. “I know that’s not the answer you want to hear, but it depends on the amount of fuel rods in the pool, how long they’ve been there, how they’re stacked up and so on, and it also depends on whether the very cold air temperatures can keep everything cool.
+
+“If we get through today without it getting worse, that’s a good sign. Every hour, every day we have without things deteriorating the better it is.”
+
+As for the radiation levels, it’s still hard to be clear whether they are in fact declining, as TEPCO claims (and the NRC doubts). On Wednesday, helicopter water bombing had to be abandoned because radiation levels over the reactor were above 50 millisieverts, or more than is allowed for Japanese Defence Force operations. Today, the choppers went in regardless, even though radiation levels at 1000 feet were 87.7 millisieverts, or not far off double that JDF limit, according to the Japanese defence minister
+
+This is still well short of the average levels of 6000 millisieverts faced by emergency workers at Chernobyl, 28 of whom died from acute radiation poisoning.
+
+As the BBC reported on Chernobyl’s 20th anniversary:
+
+“The heroes of the drama were those who battled the reactor, despite the intense radiation: people who put out the fires, who pumped water into the reactor or bathed it in liquid nitrogen, who dropped sand and lead from helicopters, dived into pools beneath the reactor to open sluice gates, or burrowed under the foundations to install a system of heat-exchanging pipes.”
+
+None of those Chernobyl heroes wore protective gear. The Fukushima workers at least have some protection. But it doesn’t make them immune. The latest state-of the art body suits claim to protect against 50% of gamma rays and a higher proportion of the more harmful alpha and beta particles. But there’s still a level at which workers can’t operate safely.
+
+

@@ -1,0 +1,117 @@
+Croakey contributors and readers – you now have another place to find in-depth discussion of public interest issues, including health and medical matters.
+
+Meet The Conversation, which is produced by a non profit company based in Melbourne and backed by the university and research sector (its partners are listed here).
+
+It is self-described as “an independent source of information, analysis and commentary from the university and research sector” that combines “academic rigour” and “journalistic flair”.
+
+Its charter is:
+
+
+
+Unlock the knowledge and expertise of researchers and academics to provide the public with clarity and insight into society’s biggest problems.
+
+Give experts a greater voice in shaping scientific, cultural and intellectual agendas by providing a trusted platform that values and promotes new thinking and evidence-based research.
+
+Provide a fact-based and editorially-independent forum, free of commercial or political bias.
+
+Create an open site for people around the world to share best practices and collaborate on developing smart, sustainable solutions.
+
+Ensure quality, diverse and intelligible content reaches the widest possible audience by employing experienced editors to curate the site.
+
+Ensure the site’s integrity by only obtaining non-partisan sponsorship from education, government and private partners. Any advertising will be relevant and non-obtrusive.
+
+Work with our academic, business and government partners and our advisory board to ensure we are operating for the public good.
+
+Support and foster academic freedom to conduct research, teach, write and publish.
+
+
+
+You can see who is on staff here (clearly, this is no small investment).
+
+The health and medicine section includes contributions on climate change from the ANU’s Professor Tony McMichael and on pyschiatric surgery from Professor Paul Fitzgerald of Monash University. An analysis of COAG and reform, from Professor George Williams at UNSW, may also interest many Croakey readers.
+
+No doubt you will be hearing plenty of analysis of the new venture from media commentators, not to mention that opinionated lot on Twitter.
+
+Meanwhile, thanks to editor Andrew Jaspan and his team for allowing this cross-posting, in which Associate Professor Tilman Ruff from the University of Melbourne gives some timely background on radiation exposure.
+
+***
+
+A radiation backgrounder
+
+Tilman Ruff writes:
+
+The March 11 earthquake and tsunami in Japan and complicating nuclear crisis throw into sharp focus concerns about exposure to ionising radiation. What is it, how is it harmful, how much is too much?
+
+Inside a nuclear reactor, the radioactivity is increased about a million times as some of the uranium or plutonium is converted to a cocktail of hundreds of different radioactive elements.
+
+There are many different pathways through which people can be exposed to radiation: inhalation of gases or particles in the air, deposits in soil or water, ingestion of food, water or dust. Some radioisotopes mimic normal chemical elements in living systems and therefore make their way up the food chain and onto our plates.
+
+Ionising radiation
+
+Radiation is called “ionising” when it has sufficient energy to knock the electrons off atoms to produce ions (atoms which have a net positive or negative electrical charge).
+
+Ionising radiation damages large complex molecules either directly or by creating highly reactive chemicals inside cells.
+
+The biological potency of ionising radiation is not related to the amount of energy it contains so much as that this energy is packaged in a form which can reach and damage complex molecules – particularly the DNA that is our genetic blueprint, that is passed on to form each new generation.
+
+A lethal dose of radiation may contain as little energy as the heat in a cup of coffee. Our senses cannot warn us about ionising radiation – it cannot be seen or touched or felt or tasted or smelt.
+
+Levels of exposure
+
+Some effects of radiation only occur above certain thresholds.
+
+In the short term, high levels of radiation exposure can cause acute radiation sickness. In the longer term there is an increased risk of cataracts, birth defects, sterility and hair loss.
+
+High doses of radiation can kill cells – this is the reason targeted radiation is used in the treatment of some cancers.
+
+Acute radiation exposure at doses over 100 milliSieverts (mSv), and particularly over 1000 mSv, has most impact on our rapidly dividing cells. These are the blood-forming cells of the bone marrow, lining of the gut, and ovaries and testis. The symptoms of acute radiation sickness therefore include vomiting and diarrhea, bleeding, and reduced ability to fight infection.
+
+The major long-term effect of ionising radiation exposure is an increased risk of a wide variety of cancers. There is no “safe” level of radiation below which there is no increase in cancer risk. The earliest to appear, after around three to five years, are leukemia and thyroid cancer. The 1986 Chernobyl disaster, for instance, has resulted in an epidemic of thyroid cancer with 6,500 children affected so far.
+
+Other cancers begin increasing after 10 years – lung, breast, colon, ovary, bladder and many others. Excess rates of cancer in the Hiroshima and Nagasaki survivors continue to rise.
+
+Sources of exposure
+
+All of us are exposed to ionising radiation all the time – from the stars, from the earth and rocks, from common equipment and appliances. The global average estimated human exposure is 2.4 mSv per year.
+
+The biggest natural source is radon gas produced from radium, part of the decay chain of uranium, which is widely distributed in the Earth’s crust. After smoking, radon is the second most important cause of lung cancer worldwide.
+
+The bulk of ongoing exposures of human origin are from medical X-rays, and there is considerable concern about the rapidly rising medical radiation exposures, particularly from the growing number of CT scans being performed. CT scans involve radiation doses of between 3 and 11 mSv.
+
+Exposure to ionising radiation from all sources should be kept as low as is feasible.
+
+In Australia and most countries, it is recommended that 1 mSv per person per year be the maximum permissible exposure from non-medical sources for the general population; and 20 mSv per year the annual permissible limit for nuclear industry workers. In Japan the maximum permissible dose for the emergency nuclear workers in Fukushima has been increased to 250 mSv.
+
+Health harms
+
+The most authoritative current estimates of the health effects of low dose ionising radiation are contained in the Biological Effects of Ionising Radiation VII report from the US National Academy of Sciences (BEIR VII).
+
+This report reflects the substantial weight of scientific evidence that there is no exposure to ionising radiation that is risk-free. The greater the exposure, the greater the risk.
+
+BEIR VII estimates that each 1 mSv of radiation is associated with an increased risk of solid cancer (cancers other than leukemia) of about 1 in 10,000; an increased risk of leukemia of about 1 in 100,000; and a 1 in 17,500 increased risk of cancer death.
+
+But while radiation protection standards are typically based on adult males, it is important to note that not everyone faces the same level of risk. For infants (under 1 year of age) the radiation-related cancer risk is 3 to 4 times higher than for adults; and female infants are twice as susceptible as male infants.
+
+Females face a lower risk of leukemia, but a 50% greater risk of developing a more common solid tumour, so their overall risk of cancer related to radiation exposure is 40% greater than for males. Fetuses in the womb are the most radiation-sensitive of all.
+
+Over time, estimates of the health risks associated with radiation exposure have inexorably risen.
+
+Some of these risks are probably still under-estimated, particularly the impact of internal contamination, such as from plutonium particles lodging in the lung. Internal contamination may not be picked up by external devices designed to detect gamma radiation alone, such as the hand-held radiation monitors now being widely used to screen people in Japan.
+
+In Germany, a recent national study showed that normal operation of nuclear power plants in Germany is associated with a more than doubling of the leukemia risk for under five year olds living within 5 km of a nuclear plant, and increased risk was seen to more than 50 km away. This was much higher than expected.
+
+The longevity of some radioactive minerals is almost incomprehensible. Plutonium-239 has a half-life of 24,400 years. It will take almost a quarter of a million years for it to decay to less than one thousandth of the starting level. So the same particle inhaled into someone’s lung could go on to increase cancer risk for other individuals over successive generations.
+
+***
+
+Postscript: A few quick random thoughts from Croakey…
+
+• I like the site’s guidance re comments etc. (In fact, I may have to borrow some of these ideas for Croakey…)
+
+• Good to see that conflict of interest declarations will be required of authors. Will these include mention of whether authors have been involved in industry marketing or PR campaigns (an issue often overlooked in COI declarations)?
+
+• It’s good to see another opportunity for indepth discussion of ideas and issues. Even better if collaboration between journalists and academics could lead to some joint, hard-hitting investigative projects, not to mention funding for such work…
+
+• The Conversation is asking for reader feedback (“This is a beta site in development….). So why don’t you have a look, and let them know what you think…
+
+

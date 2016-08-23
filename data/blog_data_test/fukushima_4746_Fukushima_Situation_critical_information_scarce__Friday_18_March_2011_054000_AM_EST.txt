@@ -1,0 +1,37 @@
+The crisis at the Fukushima Daiichi nuclear power station has been unfolding for about a week. The on-site situation remains extremely serious, with glimmers of hope being shrouded by a shadow of deep uncertainty.
+
+
+
+If you’ve not been following the situation on BraveNewClimate, please visit the site, which contains assumed knowledge for understanding the rest of this post.
+
+As predicted, attention over the last couple of days has focused on the critical situation with the ponds used for temporary storage of spent nuclear fuel at the individual reactor units, before it is moved to a centralised facility on site. Although this old fuel has lost much of its original radioactivity, the decline is exponential, which means that thermal energy must continue to be dissipated for months.
+
+
+
+Again, see this page for specific technical information and diagrams.
+
+Nothing can be confirmed at this stage. As has been the case throughout this crisis, information is hard to come by and must be pieced together.
+
+Are the spent fuel in the pools in Units 3 and 4 are now uncovered? TEPCO claims that NRC Chief Jaczko was wrong in claiming this, that the spent fuel pools in both Units 3 and 4 need some refilling but are NOT dry. (The Japanese authorities are apparently saying they’ve seen water still in the Unit 4 pool.) The big concern here is that unlike the releases from damaged fuel in the reactor cores of Units 1, 2, and 3, which were largely filtered by scrubbing in the containment suppression pools (wetwell torus), releases of volatile fission products (e.g., cesium and iodine) from these spent fuel pools have direct pathways to the environment, if they remain dry for an extended period.
+
+Efforts to deliver water to these pools have proven to be very difficult, and fuel damage may be occurring.  If they are exposed, then the use of the evaporation of salt water as a heat sink over periods of more than a few days is not viable because the quantities of salt deposited as the water evaporates becomes large in volume and plugs the flow paths through the fuel, degrading heat removal. Everything that is cooled becomes a heat sink to condense anything volatilised. Unfortunately, a fresh water supply seems difficult to come by.
+
+One option is to bring fresh water by helicopter, but the amounts needed imply a large number of flights and gamma radiation levels are high above the pools making overflights hazardous. NHK reported a number of successful water dumps using helicopters yesterday. If radiation levels on the ground increase further, personnel access will become more challenging. Additional spent fuel is stored in pools in Units 5 and 6 and in a large centralized storage pool. A key issue is how to continue to make up water to these pools in the longer term, particularly if site access becomes more difficult.
+
+It was announced at a press conference that a total of 11 specially-equipped vehicles will be used to spray water on the crippled reactors at Fukushima-1 after an access path is cleared using bulldozers. The big advantages of fire trucks over helicopters is that their water cannons can be better aimed, from the side rather than the top, and their operation is continuous rather than in batches so they can deliver vastly more water. It is clearly an appealing option. An additional 130 personnel have also been moved back on site to help with work.
+
+Based on the information coming out of TEPCO, it appears that units 1,2 and 3 remain critical but stable. Partial melting has almost certainly occurred in all three cores. There was definitely a period of no water injection because of a pressure buildup caused by stuck relief valve — always a potential issue for in high pressure systems.
+
+In summary, this accident is now significantly more severe than Three Mile Island in 1979.  
+
+It resulted from a unique combination of failures to plant systems caused by the tsunami, and the broad destruction of infrastructure for water and electricity supply which would normally be reestablished within a day or two following a reactor accident. 
+
+My initial estimates of the extent of the problem, on March 12, did not anticipate the cascading problems that arose from the extended loss of externally sourced AC power to the site, and my prediction that ‘there is no credible risk of a serious accident‘ has been proven quite wrong as a result.
+
+It remains to be seen whether my forecast on the possibility of containment breaches and the very low level of danger to the public as a result of this tragic chain of circumstances will be proven correct. 
+
+For the sake of the people there, I sure hope it does stand the test of time.
+
+This is an edited extract from Barry Brook’s website, BraveNewWorld.
+
+

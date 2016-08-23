@@ -1,0 +1,37 @@
+Crikey intern Laura Griffin writes: Google announced this week a $US168 million investment in a new solar energy power plant in California. The developers, BrightSource Energy plan to create a Ivanpah Solar Electric Generating System (ISEGS) that will generate 392 gross mega watts of clean, solar energy, making it one of the world’s largest solar energy projects.
+
+The reasons for such a grand investment by Google were both moral — “We need smart capital to transform our energy sector and build a clean energy future” — and economic based “…renewable energy project investments that offer attractive returns”.
+
+And it’s great for its image.
+
+This is Google’s largest investment in clean energy to date, and brings their running total to over $US250 million in similar projects, including offshore wind farms and solar energy plants overseas.
+
+“Power towers”, to borrow Google’s lingo, have been tried and tested successfully (albeit at smaller scales) and are based on a relatively simple idea: concentrate the sun’s rays, like a magnifying glass. The technology works by using a field of mirrors to concentrate the sun’s rays onto a solar receiver atop a tower. The captured energy is then used to make steam, which then spins a traditional turbine and then its electricity production (and transmission) as usual.
+
+How could Australia persuade Google or other private investors to fund a similar project here?
+
+Beyond Zero Emissions (BZE), an independently funded Australian NGO has already proven the viability of renewable energy production in Australia. Their financial, meteorological and energy-consumption modelling in Zero Carbon Australia — Stationary Energy Report claims that these technologies could provide Australia with 100% renewable energy by 2020.
+
+The strength of the report is its technological modelling and feasibility study, with funding options not clearly examined:
+
+Part 7 Economic comparisons
+
+The total investment required to implement the ZCA2020 renewable energy system is $370 billion, averaging $37 billion per year over the 10 year duration of the Plan. This is equivalent to 3% of GDP.
+
+The ZCA2020 Plan does not specify any particular funding mechanism. The money could come from any mix of public and private sources, depending upon a range of possible policies that would lead to the implementation of the Plan.
+
+Compared to Business-As-Usual, the ZCA2020 Plan is characterised by higher upfront investment, but lower ongoing costs.
+
+Back to that technological modelling: BZE favours an inversed power tower which they call Concentrating Solar Thermal (CST). This technology uses a huge mirrored tower to reflect all the available sun onto the field solar panels, which then transfers energy to a receiver similar to conventional boiler tubes. It sounds like the Google-funded solar plant, just back-to-front.
+
+One of the most innovative parts in the BZE model is that molten salt is heated instead of water. The molten salt then accumulates the thermal energy and can store it until heat is needed to generate steam for turbine, and then, again, its electricity production as usual, except that less water is used and the molten salt can be cooled and reused (and there’d be no nasty emissions from burning coal).
+
+BZE predict that CST could provide at least 60% of the total grid-connected electricity demand.
+
+With some wind power and minimal backup, their report shows a way Australia could move to 100% renewable energy production in a decade.
+
+For this renewable and climate-friendly infrastructure to be most efficient, BZE proposes a comprehensive upgrade to the country’s electricity grid. It would be more geographically dispersed and better connected. Engineering firm Sinclair Knight Merz reviewed the transmission network upgrade, and found it technically feasible and capable to meeting increasing needs reliably, as had been proven overseas.
+
+The recent debate over a carbon tax shows how reluctant Australian voters can be to embrace climate related policy. Would it be different if names like Google got on board in Australia? How can clean energy be better sold to companies and governments alike?
+
+

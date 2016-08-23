@@ -1,0 +1,37 @@
+How does someone know which models are “bad science” in regard to CO2 modelling? What concentration of CO2 makes it critical? We ask the climate scientists.
+
+Got a question about climate science? Crikey’s environment blog Rooted has been running the Ask a climate scientist series for several months though, and it’s well worth trawling through the archives if you haven’t already.
+
+The answers to these questions come from American Geophysical Union’s Climate Science Q&A service, where more than 700 volunteer scientists provide factual and peer-reviewed climate science information to journalists. The AGU only comments on science, not climate policy.
+
+This service is currently on a short hiatus — it was only a pilot trial to begin with — and the AGU is evaluating the success of the service so far. If you’ve got a question, feel free to email it through to me and once the service is restarted, I can get them all answered.
+
+Crikey reader Dr Kelly asks:
+
+CO2 only absorbs certain wavelengths — namely 4.3 um and 15 um ( the full range of hardly absorbed at all wavelengths is at HITRAN). Many models ignore this basic fact of physics and average everything out for the sake of easier mathematics. The IPCC uses radiative forcing.
+
+Surely computers are powerful enough to do the LBL (line by line) calculations and all the models that don’t should be consigned to the dustbin. How do I know which are the legit models and which are bad science?
+
+Spencer Weart, Director Emeritus at the American Institute of Physics, responds: 
+
+A good question. Yes, computers can do full-scale calculations of interactions with radiation, molecule by molecule and line by line, in fact point by point across the spectrum… and, equally important, level by level up through the atmosphere. Such “one-dimensional” radiative transfer calculations along a vertical line have been done successfully since the 1960s and form the basic structure of all modern general climate models.
+
+But there is much more to a climate model than just the radiative aspect.  Computers are not powerful enough to treat in full detail all aspects of the Earth system, especially if for every one of thousands of segments of the planet’s surface at each time step they had to do the full radiative calculations, which are very computationally intensive.  Therefore, computer modeling teams work with a hierarchy of models. The big three-dimensional models incorporate simpler calculations that approximately represent the full-scale line-by-line one-dimensional calculation. Of course modelers are careful and apply tests to make sure that the simpler calculations closely reproduce the results you get if you do the complete calculations.
+
+Thus there are not some models that are “legit” and others that are “bad science”. No model can include every single aspect down to whether you sneezed yesterday morning, so there are just different ways of making approximations. It has been checked repeatedly since the 1980s that you get basically the same fundamental result (namely, a global warming of roughly three degrees for doubled carbon dioxide) whether you do a one-dimensional calculation in all possible radiative detail, or do instead a three-dimensional global calculation complete with oceans etc. but making simplified calculations for things like the radiation transfer.
+
+This answer was reviewed by Dr. Lin Chambers from the NASA Langley Research Center and Clare Murphy (Paton-Walsh) from the University of Wollongong.
+
+A Crikey reader asks:
+
+I would ask about critical concentrations of CO2 and the latent effect of CO2 buildup over years in the atmosphere. One of the main criticisms I hear from climate skeptics is that CO2 is only a small fraction of the make-up of the atmosphere, so how can it possibly be having such a big effect? I’m aware that a lot of campaigning is around CO2 concentrations of 400ppm, but some more data would be useful!
+
+Dr. Bart Verheggen, from the Energy Research Centre of the Netherlands ECN responds:
+
+The answer to the first question would be that there is not one ‘critical concentration’ of CO2 below which nothing of consequence happens and above which things turn catastropic. Several estimates of a ‘safe’ concentration have been put forward, e.g. 350 ppm by Hansen et al (2008), based on evidence from the earth’s past, and 450 ppm is also an oft quoted target, which roughly corresponds to the 2 degree target (keeping mean global temperature rise limited to 2 degrees above pre-industrial levels). The 2 degree target is not arrived at by some technical calculation of a ‘critical limit’, but it was informed by political pressure of needing to come up with some target that was a compromise between what is known about consequences of climate change and what is deemed feasible within the political proces.
+
+The often heard claim that “CO2 is only a small fraction of the make-up of the atmosphere, so how can it possibly be having such a big effect?” is based on a misunderstanding. Just as with toxic compounds a very small concentration can cause severe effects, it is the specific nature of the compound, combined with its concentration, that governs its effects. Over 99% of the air is made up of compounds (molecular nitrogen and oxygen) that don’t significantly intercept infrared radiation, whereas the much less numerous “greenhouse gases” do. Evidence from the earth’s past shows indeed that the global climate is sensitive to these small changes in the concentration of greenhouse gases, as also predicted from theory.
+
+Answer reviewed by Rob Jacob from the Argonne National Laboratory.
+
+

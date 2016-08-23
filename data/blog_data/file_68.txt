@@ -1,0 +1,37 @@
+The Herald Sun’s resident Information Technology and Communications expert, Andrew Bolt, today dives back into his “Wireless means we don’t need the NBN” nonsense quoting a release from Cisco.
+
+Cisco shows Gillard is kidding with her NBN
+
+The Gillard Government is spending $37 billion on a bet that what we really want is a national broadband network that has us tethered to a wire in the wall.
+
+Communications giant Cisco Systems forecasts another future – and it’s mobile (pdf):
+
+Let’s ignore for a moment the inherent problems with wireless versus optical fibre that we’ve covered before and just take a look at the numbers that Andrew is offering up.
+
+
+
+The report Bolt links to is an update to last year’s Cisco Visual Networking Index (pdf) which attempts to forecast growth in network traffic and applications, and while the update only concerns mobile data, the full VNI discusses all Internet Protocol (IP) traffic. So let’s start with the full report and how it sees mobile data fitting in.
+
+Globally, mobile data traffic will double every year through 2014, increasing 39 times between 2009 and 2014. Mobile data traffic will grow at a compound annual growth rate (CAGR) of 108 percent between 2009 and 2014, reaching 3.6 exabytes per month by 2014.
+
+That’s a mind blowingly huge amount of data, no argument there, but how much data is it compared to fixed IP traffic?
+
+In 2014, global IP traffic will reach 767 exabytes per year or 64 exabytes per month.
+
+OK, so even taking into account its massive growth, mobile data will still only make up 5.6% of all traffic.
+
+
+
+But what about the update that Andrew linked to? Well, although it predicted mobile data traffic to reach 6.3 exabytes a month it was talking about 2015, not 2014 as the original paper was. If we follow Cisco’s original predictions, that global IP traffic is growing 34% each year, then that would mean that global traffic would be 85.6 exabytes per month, seeing mobile data increase its share to 7.3% of all traffic. In other words, 92.7% of all IP traffic will be delivered using means other than mobile data.
+
+
+
+Andrew Bolt’s ridiculous suggestion that mobile data is a better option than the proposed National Broadband Network is the 21st century equivalent of arguing that we shouldn’t build roads because we can move freight on river barges. His post is also a good example of how numbers without context are absolutely meaningless.
+
+
+
+
+
+Share and Enjoy:
+
+

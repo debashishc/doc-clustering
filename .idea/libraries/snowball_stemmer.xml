@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="snowball_stemmer">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/snowball_stemmer.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

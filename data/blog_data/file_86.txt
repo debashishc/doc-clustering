@@ -1,0 +1,35 @@
+With Richard Farmer down in Melbourne to give a speech, he’s asked me to give the latest update on the Japan nuclear crisis.
+
+Although the nuclear situation in Japan remains serious, there has been some good news in the last 24 hours. The best news seems to be that technical issues at the plant are as severe as previously reported and workers have been allowed to return to Units 3 and 4 after being evacuated yesterday. However issues of radiation in water and food supplies continues.
+
+At the IAEA headquarters in Vienna, Graham Andrew, Special Adviser to the IAEA Director General on Scientific and Technical Affairs, gave a briefing (at 15:30 UTC) on Japan’s nuclear status:
+
+As far as the reactors at the Fukushima Daiichi site are concerned, there is some good news to report from the last 24 hours, although the overall situation is still very serious.
+
+With AC power connected, instrumentation continues to be recovered in Units 1, 2 and 4. Workers returned after being evacuated from Units 3 and 4 on March 23, following confirmation that black smoke emissions from Unit 3 had ceased.
+
+Reactor pressure is increasing in Unit 1, pressure readings are unreliable in Unit 2, and stable in Unit 3 as water continues to be injected through their feed-water pipes. The temperature at the feed-water nozzle of the Reactor Pressure Vessel (RPV) is decreasing at Units 1 (243 ºC) and 3 (about 185 ºC), and stable at Unit 2 (about 102 ºC).
+
+Units 5 and 6 are still under cold shutdown, they are undergoing maintenance using off-site AC power and existing plant equipment.
+
+Dose rates in the containment vessels and suppression chambers of Units 1 and 2 have decreased slightly.
+
+Radiation Monitoring
+
+The IAEA radiation monitoring team made additional measurements at distances from 21 to 73 km from the Fukushima nuclear power plant. At distances between 34 and 73 km, in a westerly direction from the site, the dose rate ranged from 0.6 to 6.9 microsievert per hour. At the same locations, results of beta-gamma contamination measurements ranged from 0.04 to 0.4 Megabecquerel per square metre.
+
+At distances between 30 and 32 kilometers from the Fukushima Nuclear Power Plant, in a north westerly direction from the site, dose rates between 16 and 59 microsievert per hour were measured. At these locations, the results of beta-gamma contamination measurements ranged from 3.8 to 4.9 Megabecquerel per square metre. At a location of 21 km from the Fukushima site, where a dose rate of 115 microsieverts per hour was measured, the beta-gamma contamination level could not be determined.
+
+The second IAEA monitoring team has started their work today in Fukushima and Tokyo. Measurements will be taken to determine more precisely the actual radionuclides that have been deposited.
+
+On-site monitoring by the Japanese authorities at the Daiichi NPP produced new data on March 23 for radionuclide concentrations in the air from samples collected between 19 and 23 March. Of the six radionuclides monitored, only iodine-131 was found to be in excess of the limits set by Japan. Overall, the dose rates reported on the site have decreased from 1930 to 210 microsievert per hour between 21 to 23 March.
+
+There continues to be considerable daily variation in the deposition of iodine-131 and caesium-137 reported in 10 Prefectures. Recent rainfall and the resulting wet deposition may help explain the increased deposition in Tokyo. As measured by the Japanese authorities for the Shinjuku district of Tokyo, iodine-131 deposition increased by 36,000 Becquerel per square metre from 22 to 23 March, and caesium-137 deposition by 340 Becquerel per square metre.
+
+Monitoring of the marine environment by ships of the Japanese Ministry of Education, Culture, Sport, Science and Technology has now begun. Seawater and air samples were collected on 23 March in coastal waters, at distances of about 30 km off-shore. Dose rate measurements were also taken. Results from 24 March indicate surface seawater concentrations at eight locations ranging from 24.9 to 76.8 Becquerel per litre for iodine-131, and 11.2 to 24.1 Becquerel per litre for caesium-137. Radionuclide concentrations in dust in the air above the sea were also measured. The results are being assessed by experts from the IAEA’s Marine Environment Laboratory.
+
+New data provided by the Japanese authorities has been made available concerning radionuclide concentrations in foodstuffs, milk and drinking water. Sampling has been most thorough and extensive in the Fukushima and Ibaraki Prefectures. Of the 11 varieties of vegetables sampled from 18 to 22 March iodine-131 and caesium-137 levels exceed limits set for food and drink ingestion. Permissible levels of iodine-131 and caesium-137 (one sample) were also exceeded in nearly all of the milk samples taken in Fukushima and Ibaraki Prefectures between 16 to 21 March. In addition, permissible levels of iodine-131 were exceeded in drinking water samples taken in the Fukushima and Ibaraki Prefectures and in Tokyo from 17 to 23 March. Further sampling and analysis will be carried out in the days ahead by the Japanese authorities. A joint FAO/IAEA mission to Japan will be undertaken to provide advice and assistance on sampling strategies, analysis and the interpretation of data collected by the Japanese authorities related to food contamination.
+
+In summary, radioactivity in the environment, foodstuffs and water is moving more to the forefront, as some technical concerns related to the status of the reactors at the Fukushima Daiichi site appear to be slightly less acute in some respects. However, the overall situation on the Fukishima site remains very serious.
+
+

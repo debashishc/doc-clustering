@@ -1,0 +1,49 @@
+The Tokyo Metropolitan Water Office says that levels of iodine-131 in tap water at a purification plant were found to be above the limits for drinking water for infants but below the level for adults. The Ministry of Health Labour and Welfare, has requested that tap water in Tokyo is not used as drinking water for infants.
+
+That was the discomforting news in last night’s (15.:30 UTC) briefing by Graham Andrew, Special Adviser to the IAEA Director General on Scientific and Technical Affairs. Yet Mr Andrews concluded his briefing by saying “in summary: there are some positive indications on the site; precautionary restrictions around the site on certain foodstuffs; and monitoring of the environment is continuing beyond the evacuation zone and at sea. No significant risk to human health has been identified.
+
+The full text of the briefing:
+
+
+
+
+
+There are some positive developments related to the availability of electrical power supply to the Fukushima Daiichi nuclear power plants, although the overall situation remains of serious concern.
+
+AC power is now available at Units 1, 2 and 4. Power has been restored to some instrumentation in all Units except Unit 3. At Unit 3, the main control room has lighting, but no power to its equipment or instruments. As a positive development instrumentation, as it becomes available, is providing more data that can be assessed by experts.
+
+The pressure in the reactor pressure vessel and drywell of Unit 3 is stable. However, pressure has increased in both the reactor pressure vessel and the drywell of Unit 1, where seawater injection has been increased. Until heat can be removed from Unit 1, pressure tends to increase as water is injected. The reactor feed water system is being used, in addition to water injection through fire extinguisher lines.
+
+Pressure readings in Unit 2 appear to be less reliable. Only limited data is available concerning the reactor pressure vessel and reactor containment vessels’ integrity of Unit 2. Temperature readings in the reactor pressure vessels of Units 1 and 3 were high and of some concern. The temperature has now dropped in Unit 1 following the start of seawater injection via feed-water pipes. Indications are that the temperature at Unit 2 is stable.
+
+Units 5 and 6 continue to have off-site power and remain in cold shutdown.
+
+Dose rates measured in the containment vessels and suppression chambers of Units 1, 2, and 3 are available and are being studied.
+
+Periodic water spraying of Units 2, 3, and 4 and the common spent fuel pool has continued.
+
+
+
+Radiation Monitoring
+
+The IAEA radiation monitoring team took additional measurements at distances from 30 to 73 km from the Fukushima nuclear power plant. Results from gamma dose-rate measurements in air ranged from 0.2 to 6.9 microsievert per hour. The beta-gamma contamination measurements ranged from 0.02 to 0.6 Megabecquerel per square metre.
+
+The second IAEA monitoring team has now arrived in Japan. The two teams in Japan will continue to work closely with the Japanese authorities. Monitoring will be undertaken in the areas of Fukushima and Tokyo. Measurements will be taken to determine more precisely the actual composition of the radionuclides that have been deposited.
+
+More data has become available from the Japanese authorities. The measurements indicate that the radiation dose rates at the Daiichi site are decreasing. Absent further releases from the site, this is to be expected as relatively short lived radionuclides such as Iodine-131 decay away. At the Daiini site, small spikes have been observed in gamma dose rate measurements; these are most likely to be the result of releases carried by the wind from the nearby Daiichi site.
+
+The deposition of iodine-131 and caesium-137 varies across some ten Prefectures from day to day, but the trend is generally upward. In contrast, environmental radiation monitoring data in the Fukushima Prefecture outside the 20km evacuation zone, shows mostly decreasing values.
+
+Monitoring of the marine environment is being undertaken by the Japanese Ministry of Education, Culture, Sport, Science and Technology (MEXT). High levels of iodine-131 and caesium-137 were measured close to the effluent discharge points Units 1 to 4 of Fukushima Daiichi (i.e. before dilution by the ocean). Future monitoring will cover eight locations 30 km off the coast at 10 km intervals. Results for seawater and the atmosphere above the sea should be available in the next few days. IAEA experts from the Marine Environment Laboratory, Monaco will assess this data.
+
+Since yesterday, the IAEA has received further information from the Japanese Ministry of Health, Labour and Welfare regarding the presence of radioactivity in milk, drinking water and vegetables. The results of some samples were above the limits specified in Japanese regulations concerning limits for food and water ingestion.
+
+In Fukushima prefecture six raw milk samples, and in Ibaraki prefecture three spinach samples, showed concentrations of Iodine-131 in excess of limits. We understand that the Prime Minister of Japan, Mr. Naoto Kan, has today issued instructions to food business operators to cease, for the time being, the distribution of, and for the public to cease the consumption of, certain leafy vegetables (e.g., spinach, komatsuna, cabbages) and any flowerhead brassicas (broccoli, cauliflower) produced in Fukushima Prefecture. The Prime Minister has ordered food business operators not to distribute, for the time being, any fresh raw milk and parsley in Ibaraki Prefecture.
+
+We have also been advised that the Ministry of Health, Labour and Welfare has encouraged Ibaraki and Chiba Prefectures to monitor seafood products.
+
+The Tokyo Metropolitan Water Office stated that levels of iodine-131 in tap water at a purification plant were found to be above the limits for drinking water for infants but below the level for adults. The Ministry of Health Labour and Welfare, has requested that tap water in Tokyo is not used as drinking water for infants.
+
+So, in summary: there are some positive indications on the site; precautionary restrictions around the site on certain foodstuffs; and monitoring of the environment is continuing beyond the evacuation zone and at sea. No significant risk to human health has been identified.
+
+
