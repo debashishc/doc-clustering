@@ -1,60 +1,38 @@
 package ml.kmeans;
 
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
+import java.util.*;
 
 /**
- * Created by dc on 16/08/2016.
+ * @date 16/08/2016
+ * @author Debashish Chakraborty
+ * Creating a vector representation of the documents and mapping the tf-idf for each document
  */
 public class VectorRepresentation {
 
-    public static List<Document> convertToVector (Map<String, Map> fileTermHashMap) {
-
+    // Creating a list of documents with the tf-idf
+    public static List<Document> convertToList (Map<String, Map> fileTermHashMap) {
         List<Document> vector = new ArrayList<>();
-
         for (Map.Entry<String, Map> entry : fileTermHashMap.entrySet()) {
-            String file = entry.getKey();
             Map<String, Integer> termHashMap = entry.getValue();
-            Map<String, Double> docTfMap = getDocTFMap(termHashMap);
-            Map<String, Double> tfIdfMap = getTfFIdMap(docTfMap, fileTermHashMap);
-
-            vector.add(new Document(file, tfIdfMap));
+            Map<String, Double> tfIdfMap = getTfFIdMap(termHashMap, fileTermHashMap);
+            vector.add(new Document(entry.getKey(), tfIdfMap));
         }
         return vector;
-
     }
 
-    // Create a map of documents
-    public static Map<String, Double> getDocTFMap ( Map<String, Integer> objFreqMap) {
-
-        Map<String, Double> doctfmap = new HashMap<>();
-
-        for (Map.Entry<String, Integer> objFreq : objFreqMap.entrySet()) {
-
-            Double freq =  objFreq.getValue().doubleValue();
-            String obj = objFreq.getKey();
-
-            Double objF = freq / objFreqMap.size();
-            doctfmap.put(objFreq.getKey(), objF);
-        }
-
-        return doctfmap;
-
-    }
-
-    public static Map<String, Double> getTfFIdMap (Map<String, Double> docTFMap, Map<String, Map> docHashMap) {
+    // Getting a map of the term frequency- inverse document frequency for the top terms extracted with HashMapBuilder
+    public static Map<String, Double> getTfFIdMap (Map<String, Integer> objFreqMap, Map<String, Map> docHashMap) {
         Map<String, Double> tfIdfMap = new HashMap<>();
         int numDocs = docHashMap.size();
 
-        for (Map.Entry<String, Double> obj : docTFMap.entrySet()) {
+        for (Map.Entry<String, Integer> obj : objFreqMap.entrySet()) {
             String term = obj.getKey();
-            Double tf = obj.getValue();
+            Double freq = obj.getValue().doubleValue();
+            Double termF = freq / objFreqMap.size();
             Double idf = Math.log((double) numDocs / HashMapBuilder.termMap.get(term).getFreqInDoc());
-            Double tfIdf = tf * idf;
-
+            Double tfIdf = termF * idf;
             tfIdfMap.put(term, tfIdf);
+
         }
         return tfIdfMap;
     }
@@ -63,14 +41,8 @@ public class VectorRepresentation {
         String path = "data/blog_data/";
         Map<String, Map> fileTermHashMap = HashMapBuilder.hashMapBuilder(path, true);
         System.out.println(fileTermHashMap);
-
-//        Map<String, Double> docTFMap = getDocTFMap(fileTermHashMap);
-
-//        Map<String, Double> TfFIdMap = getTfFIdMap();
-
-        List<Document> documentList = convertToVector(fileTermHashMap);
-        System.out.println(documentList);
-
+        List<Document> docList = convertToList(fileTermHashMap);
+        System.out.println(docList);
     }
 
 }

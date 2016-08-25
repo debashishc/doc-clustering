@@ -3,7 +3,9 @@ package ml.kmeans;
 import java.util.*;
 
 /**
- * Created by dc on 16/08/2016.
+ * @date 16/08/2016
+ * @author Debashish Chakraborty
+ * Document class with name, cluster index, tf-idf and score
  */
 public class Document {
 
@@ -13,7 +15,6 @@ public class Document {
     Double score;
 
     public Double getScore() {
-
         return score;
     }
 
@@ -52,13 +53,5 @@ public class Document {
     public Map<String, Double> getTermFrequencyIDMap() {
         return termFrequencyIDMap;
     }
-
-    public void setTermFrequencyIDMap(Map<String, Double> termFrequencyIDMap) {
-        this.termFrequencyIDMap = termFrequencyIDMap;
-    }
-
-//    public int compareTo(Document other) {
-//        return Double.compare(this.score, other.score);
-//    }
 
 }

@@ -1,7 +1,9 @@
 package ml.kmeans;
 
 /**
- * Created by dc on 16/08/2016.
+ * @date 16/08/2016
+ * @author Debashish Chakraborty
+ * Term with its value and its frequency in document
  */
 public class Term {
 
